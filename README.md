@@ -9,14 +9,14 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 🚀 Project Steps
 
-1. **Data Cleaning & Preparation**
+**Data Cleaning & Preparation**
    - Cleaned and formatted raw sales transaction data
    - Separated date columns into day, month, hour for better grouping
 
-2. **Pivot Table Setup**
+**Pivot Table Setup**
    - Created multiple Pivot Tables to summarize sales by time, product, location, and category
 
-3. **Dashboard Design**
+**Dashboard Design**
    - Designed an interactive dashboard using slicers, charts, and dynamic visuals
    - Organized metrics into readable blocks for insights at a glance
 
@@ -43,10 +43,10 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 📦 coffee-shop-dashboard/
 │
-├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
-├── 📄 README.md                          # Project documentation
-├── 📁 Screenshots/                       # Dashboard images
-└── 📄 LICENSE                            # Open-source license
+- ├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
+- ├── 📄 README.md                          # Project documentation
+- ├── 📁 Screenshots/                       # Dashboard images
+- └── 📄 LICENSE                            # Open-source license
 
 ---
 
