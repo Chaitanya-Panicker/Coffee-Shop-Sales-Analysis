@@ -1,67 +1,76 @@
 
 <img width="1920" height="1022" alt="Screenshot (348)" src="https://github.com/user-attachments/assets/ec00c64d-e2a9-4012-b044-6fd48b1d151c" />
 
-# ☕ Coffee Shop Sales Analysis Dashboard
-A dynamic and interactive Excel dashboard project that visualizes key metrics for a fictional coffee shop's sales performance. Built using Pivot Tables, Charts, and Slicers to support data-driven decision-making.
+# ☕ Coffee Shop Sales Dashboard
 
-## 📌 Project Steps
+This project presents an interactive **Coffee Shop Sales Dashboard** built using Microsoft Excel. It provides a visual overview of sales performance across different product types, times of day, locations, and more helping stakeholders make informed decisions through data-driven insights.
 
-Data Cleaning & Preparation
+---
 
-Cleaned and formatted raw sales transaction data
+## 🚀 Project Steps
 
-Separated date columns into day, month, hour for better grouping
+1. **Data Collection**  
+   Collected transaction-level data including sales amount, product categories, time, and store locations.
 
-Pivot Table Setup
+2. **Data Cleaning**  
+   Ensured consistent formatting, removed nulls, handled undefined sizes, and verified date/time formats.
 
-Created multiple Pivot Tables to summarize sales by time, product, location, and category
+3. **Data Modeling**  
+   Created Pivot Tables for dynamic aggregation of key metrics like total amount and transaction count.
 
-Dashboard Design
+4. **Dashboard Design**  
+   Built an interactive dashboard with slicers for day and month filtering, and multiple charts (bar, pie, column) for visualization.
 
-Designed an interactive dashboard using slicers, charts, and dynamic visuals
+---
 
-Organized metrics into readable blocks for insights at a glance
+## 📋 Requirements
 
-## 💻 Requirements
-Microsoft Excel 2016 or later (with Pivot Table and Slicer support)
+- Microsoft Excel (2016 or later recommended for slicer and pivot features)
+- Basic understanding of Pivot Tables and Charts
+- Dataset in `.xlsx` format with transactional sales data
 
-Basic knowledge of Excel functions and data visualization
+---
 
-## 🚀 Getting Started
-Clone the repository:
-git clone https://github.com/your-username/coffee-shop-dashboard.git
-Open the Coffee_Shop_Sales_Dashboard.xlsx file in Excel.
+## 🛠️ Getting Started
 
-Use the slicers on the left to filter data by:
-Day
-Month
-View interactive charts updating based on selected filters.
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/coffee-shop-dashboard.git
+   cd coffee-shop-dashboard
+Open the Excel File
+Navigate to the Dashboard sheet to interact with visualizations.
 
-## 📁 Project Structure
-📦 coffee-shop-dashboard/
-│
-├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
-├── 📄 README.md                          # Project documentation
-├── 📁 Screenshots/                       # Dashboard images
-└── 📄 LICENSE                            # Open-source license
+Use Slicers
+Filter data by Day Name and Month Name to analyze specific time periods.
 
-## 📈 Results and Insights
-Peak Hours: Most transactions occur between 9 AM and 12 PM.
+📁 Project Structure
+bash
+Copy
+Edit
+coffee-shop-dashboard/
+├── Transactions            # Raw sales data
+├── Pivot Tables            # Pivot tables for calculations
+├── Dashboard               # Interactive visual dashboard
+└── README.md               # Project documentation
+📊 Results and Insights
+Peak Hours: Most orders are placed between 8 AM and 11 AM.
 
-Top Product Category: Coffee leads with 40% of total orders.
+Top Product Category: Coffee contributes the highest to revenue (~40%).
 
-Location Trends: Highest sales in Lower Manhattan and Astoria.
+Popular Product Type: Barista Espresso and Chai Tea are top-selling items.
 
-Popular Product Types: Brewed Black Tea and Barista Espresso perform strongly.
+Sales by Size: Large and Regular sizes dominate sales (~60% combined).
 
-Day-wise Sales: Consistent sales from Monday to Friday; slightly lower on weekends.
+Location Trends: Lower Manhattan leads in total sales volume.
 
-## 📄 License
+Day-Wise Insights: Sales are consistent, with a slight dip on Wednesdays.
+
+📄 License
 This project is licensed under the MIT License.
 
-## 🙌 Acknowledgments
-Inspired by real-world retail sales dashboards.
+🙌 Acknowledgments
+Excel for providing powerful data visualization tools.
 
-Created as part of data analytics skill development.
+Dataset inspired by typical POS systems used in retail coffee chains.
 
-Thanks to the Excel community and dashboard designers for layout ideas.
+Community support from data analysts and Excel enthusiasts.
