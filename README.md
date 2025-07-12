@@ -9,17 +9,16 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 🚀 Project Steps
 
-- **Data Collection**  
-   Collected transaction-level data including sales amount, product categories, time, and store locations.
+1. **Data Cleaning & Preparation**
+   - Cleaned and formatted raw sales transaction data
+   - Separated date columns into day, month, hour for better grouping
 
-- **Data Cleaning**  
-   Ensured consistent formatting, removed nulls, handled undefined sizes, and verified date/time formats.
+2. **Pivot Table Setup**
+   - Created multiple Pivot Tables to summarize sales by time, product, location, and category
 
-- **Data Modeling**  
-   Created Pivot Tables for dynamic aggregation of key metrics like total amount and transaction count.
-
-- **Dashboard Design**  
-   Built an interactive dashboard with slicers for day and month filtering, and multiple charts (bar, pie, column) for visualization.
+3. **Dashboard Design**
+   - Designed an interactive dashboard using slicers, charts, and dynamic visuals
+   - Organized metrics into readable blocks for insights at a glance
 
 ---
 
@@ -42,11 +41,12 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 📁 Project Structure
 
-coffee-shop-dashboard/
-- ├── Transactions            # Raw sales data
-- ├── Pivot Tables            # Pivot tables for calculations
-- ├── Dashboard               # Interactive visual dashboard
-- └── README.md               # Project documentation
+📦 coffee-shop-dashboard/
+│
+├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
+├── 📄 README.md                          # Project documentation
+├── 📁 Screenshots/                       # Dashboard images
+└── 📄 LICENSE                            # Open-source license
 
 ---
 
@@ -61,7 +61,7 @@ coffee-shop-dashboard/
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 ---
 
