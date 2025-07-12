@@ -9,16 +9,16 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 🚀 Project Steps
 
-1. **Data Collection**  
+- **Data Collection**  
    Collected transaction-level data including sales amount, product categories, time, and store locations.
 
-2. **Data Cleaning**  
+- **Data Cleaning**  
    Ensured consistent formatting, removed nulls, handled undefined sizes, and verified date/time formats.
 
-3. **Data Modeling**  
+- **Data Modeling**  
    Created Pivot Tables for dynamic aggregation of key metrics like total amount and transaction count.
 
-4. **Dashboard Design**  
+- **Dashboard Design**  
    Built an interactive dashboard with slicers for day and month filtering, and multiple charts (bar, pie, column) for visualization.
 
 ---
@@ -37,40 +37,35 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
    ```bash
    git clone https://github.com/your-username/coffee-shop-dashboard.git
    cd coffee-shop-dashboard
-Open the Excel File
-Navigate to the Dashboard sheet to interact with visualizations.
 
-Use Slicers
-Filter data by Day Name and Month Name to analyze specific time periods.
+---
 
-📁 Project Structure
-bash
-Copy
-Edit
+## 📁 Project Structure
+
 coffee-shop-dashboard/
-├── Transactions            # Raw sales data
-├── Pivot Tables            # Pivot tables for calculations
-├── Dashboard               # Interactive visual dashboard
-└── README.md               # Project documentation
-📊 Results and Insights
-Peak Hours: Most orders are placed between 8 AM and 11 AM.
+- ├── Transactions            # Raw sales data
+- ├── Pivot Tables            # Pivot tables for calculations
+- ├── Dashboard               # Interactive visual dashboard
+- └── README.md               # Project documentation
 
-Top Product Category: Coffee contributes the highest to revenue (~40%).
+---
 
-Popular Product Type: Barista Espresso and Chai Tea are top-selling items.
+## 📊 Results and Insights
+- Peak Hours: Most orders are placed between 8 AM and 11 AM.
+- Top Product Category: Coffee contributes the highest to revenue (~40%).
+- Popular Product Type: Barista Espresso and Chai Tea are top-selling items.
+- Sales by Size: Large and Regular sizes dominate sales (~60% combined).
+- Location Trends: Lower Manhattan leads in total sales volume.
+- Day-Wise Insights: Sales are consistent, with a slight dip on Wednesdays.
 
-Sales by Size: Large and Regular sizes dominate sales (~60% combined).
+---
 
-Location Trends: Lower Manhattan leads in total sales volume.
-
-Day-Wise Insights: Sales are consistent, with a slight dip on Wednesdays.
-
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgments
-Excel for providing powerful data visualization tools.
+---
 
-Dataset inspired by typical POS systems used in retail coffee chains.
-
-Community support from data analysts and Excel enthusiasts.
+## 🙌 Acknowledgments
+- Excel for providing powerful data visualization tools.
+- Dataset inspired by typical POS systems used in retail coffee chains.
+- Community support from data analysts and Excel enthusiasts.
