@@ -1,5 +1,4 @@
-
-<img width="1920" height="1022" alt="Screenshot (348)" src="https://github.com/user-attachments/assets/ec00c64d-e2a9-4012-b044-6fd48b1d151c" />
+<img width="1525" height="660" alt="Screenshot" src="https://github.com/user-attachments/assets/325ec131-18fb-4d25-a324-7658ba2a438e" />
 
 # ☕ Coffee Shop Sales Dashboard
 
@@ -41,12 +40,12 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 📁 Project Structure
 
-📦 coffee-shop-dashboard/
-│
-- ├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
-- ├── 📄 README.md                          # Project documentation
-- ├── 📁 Screenshots/                       # Dashboard images
-- └── 📄 LICENSE                            # Open-source license
+ 📦 coffee-shop-dashboard/
+  │
+  ├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
+  ├── 📄 README.md                          # Project documentation
+  ├── 📁 Screenshots/                       # Dashboard images
+  └── 📄 LICENSE                            # Open-source license
 
 ---
 
