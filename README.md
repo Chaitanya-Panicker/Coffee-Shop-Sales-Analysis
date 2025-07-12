@@ -40,12 +40,14 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 📁 Project Structure
 
+```
  📦 coffee-shop-dashboard/
-  │
-  ├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
-  ├── 📄 README.md                          # Project documentation
-  ├── 📁 Screenshots/                       # Dashboard images
-  └── 📄 LICENSE                            # Open-source license
+│
+├── 📊 Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
+├── 📄 README.md                          # Project documentation
+├── 📁 Screenshots/                       # Dashboard images
+└── 📄 LICENSE                            # Open-source license
+```
 
 ---
 
