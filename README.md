@@ -41,11 +41,11 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 ## 📁 Project Structure
 
 ```
- 📦 coffee-shop-dashboard/
+coffee-shop-dashboard/
 │
 ├── Coffee_Shop_Sales_Dashboard.xlsx   # Main dashboard file
 ├── README.md                          # Project documentation
-├── Screenshot.jpg/                    # Dashboard images
+├── Screenshot.jpg                     # Dashboard images
 └── LICENSE                            # Open-source license
 ```
 
@@ -67,6 +67,6 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 ---
 
 ## 🙌 Acknowledgments
-- Excel for providing powerful data visualization tools.
-- Dataset inspired by typical POS systems used in retail coffee chains.
-- Community support from data analysts and Excel enthusiasts.
+- Inspired by real-world retail sales dashboards.
+- Created as part of data analytics skill development.
+- Thanks to the Excel community and dashboard designers for layout ideas.
