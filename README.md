@@ -1,5 +1,5 @@
-![fotor-ai-202507172139](https://github.com/user-attachments/assets/bd3508cd-0a91-4f71-af18-d73eff476d1f)
 
+![fotor-ai-202507172139](https://github.com/user-attachments/assets/af1b75db-c3eb-4d84-8ff2-51424b4d0f62)
 
 # Coffee Shop Sales Dashboard
 
