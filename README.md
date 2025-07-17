@@ -1,4 +1,5 @@
-<img width="1525" height="660" alt="Screenshot" src="https://github.com/user-attachments/assets/325ec131-18fb-4d25-a324-7658ba2a438e" />
+![fotor-ai-202507172139](https://github.com/user-attachments/assets/bd3508cd-0a91-4f71-af18-d73eff476d1f)
+
 
 # Coffee Shop Sales Dashboard
 
